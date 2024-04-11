@@ -13,7 +13,7 @@ namespace CSBasic
         static void Main(string[] args)
         //  Main의 M이 대문자, string의 s가 소문자 (java와 다름)
         {
-            
+            Console.WriteLine("Hello World?!");
         }
     }
 }
